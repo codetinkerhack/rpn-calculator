@@ -1,3 +1,5 @@
+package com.codetinkerhack;
+
 /**
  * Created by evgeniys on 10/05/2017.
  */

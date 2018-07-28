@@ -1,3 +1,5 @@
+package com.codetinkerhack;
+
 import java.util.LinkedList;
 
 /**
